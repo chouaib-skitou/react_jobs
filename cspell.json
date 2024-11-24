@@ -1,0 +1,8 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": ["React", "jsx", "TailwindCSS"],
+    "ignorePaths": ["node_modules/**", "dist/**"],
+    "dictionaries": ["javascript", "typescript", "html"]
+  }
+  
